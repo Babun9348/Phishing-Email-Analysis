@@ -60,15 +60,5 @@ Through this task, I demonstrated:
 - Practical usage of **email header analysis tools** to detect forged sender info and authentication failures.
 - The creation of a **professional security report** summarizing technical and social cues of phishing attempts.
 
----
 
-## 📌 Note
-
-This exercise is for **educational and training purposes only**. The email content and headers are **simulated** but modeled on real-world phishing tactics. Do not attempt to interact with any links shown in the phishing content.
-
----
-
-## 📬 Submission
-
-To complete the task, submit this GitHub repository link via the official internship form.
 
