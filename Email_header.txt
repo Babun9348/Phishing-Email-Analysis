@@ -1,0 +1,22 @@
+Delivered-To: jyotiprakash.mishra@email.com
+Received: by 2002:a17:906:bc94:0:0:0:0 with SMTP id c20csp1047394ejc;
+        Mon, 24 Jun 2024 13:46:00 -0700 (PDT)
+Return-Path: <no-reply@icici-alerts.com>
+Received: from unknown-host.com ([185.234.217.54])
+        by mx.email.com with ESMTPS id a8si382719qka.88.2024.06.24.13.46.00
+        for <jyotiprakash.mishra@email.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384);
+        Mon, 24 Jun 2024 13:46:00 -0700 (PDT)
+Received-SPF: fail (email.com: domain of no-reply@icici-alerts.com does not designate 185.234.217.54 as permitted sender) client-ip=185.234.217.54;
+Authentication-Results: mx.email.com;
+       dkim=fail (bad signature) header.d=icicibank.com;
+       spf=fail (email.com: domain of no-reply@icici-alerts.com does not authorize 185.234.217.54);
+       dmarc=fail (p=REJECT sp=REJECT dis=NONE) header.from=icicibank.com
+From: ICICI Bank <no-reply@icici-alerts.com>
+To: jyotiprakash.mishra@email.com
+Subject: [IMPORTANT] Your ICICI Bank Account is Temporarily Locked
+Date: Mon, 24 Jun 2024 22:14:00 +0530
+Message-ID: <172984623.2089234.1728484632@icici-alerts.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit

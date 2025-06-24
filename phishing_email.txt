@@ -1,0 +1,23 @@
+From: no-reply@icici-alerts.com
+To: jyotiprakash.mishra@gmail.com
+Subject: [IMPORTANT] Your ICICI Bank Account is Temporarily Locked
+
+Dear Jyotiprakash Mishra,
+
+We have detected unusual login attempts to your ICICI Bank NetBanking account from an unrecognized device and location. For your security, we have temporarily suspended access to your online banking account.
+
+To reactivate your account, please verify your identity by clicking the secure link below:
+
+🔗 https://icici-verify.com/security/reauthenticate
+
+Failure to verify your details within the next 12 hours will result in permanent account lockout as per ICICI’s security policy.
+
+If you believe this is a mistake, please act immediately by visiting the verification portal above.
+
+Sincerely,  
+ICICI Bank Security Department  
+no-reply@icici-alerts.com
+
+---
+
+This is an automated security message. Please do not reply.
